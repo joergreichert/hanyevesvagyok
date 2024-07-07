@@ -22,3 +22,10 @@ A lot of cities already publish their street tree data as open data, but still s
 * Wikidata
 * tree nursery data
 * tree cadastre data
+
+## Links
+* [Flurbäume - Jährlicher Zuwachs des Stammumfangs von Bäumen nach verschiedenen Quellen, cm / Jahr](https://flurbaum.de/zuwachs-tabelle.html)
+* [Baumalter - Schätz -O- Meter](https://www.baumportal.de/baum-alter-bestimmen)
+* [geoclimbing.de - Woher weiß ich, wie alt ein Baum ist?](https://www.geoclimbing.de/knowledge-base/woher-weiss-ich-wie-alt-ein-baum-ist/)
+* [Baumsicht - Baumalter bestimmen](https://baumsicht.de/alter/)
+* [Das "geheime" Wachstum der Bäume](https://www.pflanzenforschung.de/de/pflanzenwissen/journal/das-geheime-wachstum-der-baeume)
